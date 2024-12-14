@@ -4,6 +4,7 @@ body{
     background-color: #191919;
     display: flex;
     justify-content: center;
+    
 }
 
 main{
@@ -11,9 +12,10 @@ main{
     background-color: rgb(0, 0, 0);
     width: 87vw;
     margin: auto;
-    margin-top: 7vw ;
+    margin-top: 2vw ;
     margin-bottom: 5rem;
     border-radius: 10px;
+    max-width: 400px;
 }
 
 a{
@@ -37,7 +39,7 @@ a{
 }
 
 .card-1 img{
-    width: 14vw;
+    width: 4rem;
     border-radius: 10px;
     border: rgb(0, 62, 230) solid;
 }
@@ -190,7 +192,7 @@ a{
 }
 
 .card-3 img{
-    width: 36vw;
+    width: 9rem;
     border-radius: 10px;
 }
 
